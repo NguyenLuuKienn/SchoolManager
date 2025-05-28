@@ -1,0 +1,2 @@
+// Vite environment declarations
+export {};
